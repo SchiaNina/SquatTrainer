@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SquatTrainer</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="istruzioni">Premi start per iniziare la calibrazione:\n(assicurandoti di riporre rapidamente il dispositivo in tasca)\n\n- Al primo segnale acustico rimani in piedi\n- Al secondo scendi fino alla posizione desiderata fino al terzo segnale
+    </string>
+</resources>
